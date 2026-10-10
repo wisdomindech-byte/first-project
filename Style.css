@@ -1,0 +1,56 @@
+.zent{
+    background-color:aqua;
+    font-size: 50px;
+}
+.body{
+background-image:url(../../../Downloads/kyra-interiors-13fcCs0rDp4-unsplash.jpg);
+font-size :25px;
+ font-weight: 15px ;
+ 
+
+}
+.laund{
+   background-image: url(../../../Downloads/pexels-hugoteconecta-641939723-37658583.jpg);
+   background-repeat: no-repeat;
+background-size: 1200px 500px;
+background-color: pink;
+color:rgba(184, 28, 150, 0.847);
+font-size: 35px;
+}
+.book{
+    background-color: rgb(215, 26, 26);
+    width: 200px;
+    border-radius:9px;
+    font-weight: 15px;
+    border-color: white;
+    color:black;
+    height: 60px;
+
+
+}
+.book:hover{
+    opacity:0.8;
+    cursor:pointer;
+    
+}
+.den{
+display: inline-block;
+    width:400px;
+    height:1200px
+}
+.dance{
+    width:400px;
+    display: inline-block;
+    margin-left: 2px;
+}
+.omly{
+    background-image:url(../../../Downloads/pexels-cottonbro-6466496.jpg) ;
+    width:500px;
+}
+.party{
+        width:200px;
+        
+}
+.img{
+    width:200px
+}
