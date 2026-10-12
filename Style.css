@@ -36,12 +36,14 @@ font-size: 35px;
 .den{
 display: inline-block;
     width:400px;
-    height:1200px
+    background-color: aqua;
+    margin-top: 2px;
 }
 .dance{
     width:400px;
     display: inline-block;
     margin-left: 2px;
+    margin-top: 2px;
 }
 .omly{
     background-image:url(../../../Downloads/pexels-cottonbro-6466496.jpg) ;
@@ -52,5 +54,68 @@ display: inline-block;
         
 }
 .img{
-    width:200px
+    width:200px;
+    display:inline-block;
+}
+.food{
+    background-image: url(../../Pictures/pexels-picha-6210452.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 30px;
+    font-weight:20px
+    font-family: Arial, sans-serif; background:#f8f8f8; padding:20px; 
+  h1 { text-align:center; color:#8B0000; }
+  table { width:100%; border-collapse:collapse; background:white; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
+  th { background:#8B0000; color:white; padding:12px; text-align:left; }
+  td { padding:10px; border-bottom:1px solid #ddd; }
+  tr:hover { background:#fff5f5; }
+  .category { background:#f2dede; font-weight:bold; color:#8B0000; }
+  .price { text-align:right; }
+
+}
+.sing{
+    background-image:url(../../../Downloads/vitalii-khodzinskyi-7Vai5er8mxc-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(234, 6, 185);
+    font-weight:50px;
+    font-size: 20px;
+}
+.pink{
+    color: white;
+    font-weight: 500;
+    font-size: 60px;
+}
+.karoke{
+    background-image:url(../../../Downloads/vitalii-khodzinskyi-7Vai5er8mxc-unsplash.jpg);
+
+}
+.dence{
+    background-color: rgb(114, 83, 109);
+}
+.prof{
+    width:200px;
+    border-radius: 50%;
+    border-color: aquamarine;
+    
+    
+}
+.fullp{
+    background-image:url(../../../Downloads/rubrum70-motel-601218_1920.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 25px;
+    font-weight:20px;
+    color: rgb(255, 255, 0);
+}
+.swim{
+    background-color:pink;
+    font-size: 25px;
+}
+.div{
+    width:600px;
+    display:inline-block
+}
+.dok{
+    color:rgb(253, 8, 224);
 }
